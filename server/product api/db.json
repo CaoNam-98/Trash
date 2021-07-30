@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SamSung S7",
+      "price": "900",
+      "status": false
+    },
+    {
+      "name": "Iphone XS Max",
+      "price": 6000,
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "Iphone X",
+      "price": 5000,
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "SamSung S7",
+      "price": "2000",
+      "status": true,
+      "id": 7
+    },
+    {
+      "name": "Iphone XS Max",
+      "price": 499999,
+      "status": true,
+      "id": 8
+    },
+    {
+      "name": "SamSung  Galaxy S10",
+      "price": 600000,
+      "status": true,
+      "id": 9
+    },
+    {
+      "name": "Iphone X",
+      "price": 600000,
+      "status": true,
+      "id": 10
+    },
+    {
+      "name": "Iphone XS Max",
+      "price": 600000,
+      "status": false,
+      "id": 11
+    },
+    {
+      "name": "SamSung S7",
+      "price": 499,
+      "status": true,
+      "id": 12
+    },
+    {
+      "name": "Iphone X",
+      "price": 7997,
+      "status": false,
+      "id": 13
+    },
+    {
+      "name": "Iphone X",
+      "price": 398,
+      "status": false,
+      "id": 14
+    },
+    {
+      "name": "Iphone XS Max",
+      "price": 200,
+      "status": false,
+      "id": 15
+    },
+    {
+      "id": 16,
+      "name": "Iphone XS Max",
+      "price": 19999,
+      "status": false
+    },
+    {
+      "id": 17,
+      "name": "SamSung S7",
+      "price": 6999,
+      "status": false
+    },
+    {
+      "id": 18,
+      "name": "Iphone 7 - Plus",
+      "price": 7998,
+      "status": false
+    },
+    {
+      "id": 19,
+      "name": "Iphone XS Max",
+      "price": 6000,
+      "status": false
+    },
+    {
+      "id": 20,
+      "name": "Iphone XS Max",
+      "price": 398,
+      "status": false
+    },
+    {
+      "id": 21,
+      "name": "SamSung  Galaxy S10",
+      "price": 600,
+      "status": false
+    },
+    {
+      "id": 22,
+      "name": "Iphone XS Max",
+      "price": 4000,
+      "status": false
+    },
+    {
+      "id": 23,
+      "name": "SamSung  Galaxy S10",
+      "price": 60000,
+      "status": true
+    },
+    {
+      "id": 24,
+      "name": "SamSung  Galaxy S10",
+      "price": 1000,
+      "status": false
+    },
+    {
+      "id": 25,
+      "name": "Iphone X",
+      "price": 20,
+      "status": false
+    },
+    {
+      "id": 26,
+      "name": "Iphone 7 - Plus",
+      "price": 500,
+      "status": false
+    },
+    {
+      "id": 27,
+      "name": "SamSung S77",
+      "price": 2001420000,
+      "status": false
+    },
+    {
+      "id": 28,
+      "name": "SamSung S7",
+      "price": 20014200,
+      "status": false
+    },
+    {
+      "id": 29,
+      "name": "SamSung S7",
+      "price": 499899,
+      "status": false
+    },
+    {
+      "id": 30,
+      "name": "SamSung S7",
+      "price": 499899,
+      "status": true
+    },
+    {
+      "id": 31,
+      "name": "SamSung S7",
+      "price": 49,
+      "status": false
+    },
+    {
+      "id": 32,
+      "name": "SamSung S7",
+      "price": 49989,
+      "status": false
+    },
+    {
+      "id": 33,
+      "name": "SamSung S7",
+      "price": 499899,
+      "status": false
+    },
+    {
+      "id": 34,
+      "name": "SamSung S7",
+      "price": 499899,
+      "status": false
+    },
+    {
+      "id": 35,
+      "name": "SamSung S7",
+      "price": 499899,
+      "status": false
+    }
+  ]
+}
